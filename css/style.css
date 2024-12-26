@@ -68,7 +68,7 @@ main {
 
 .line {
   height: 0.2rem;
-  width: 2.3rem;
+  width: 2rem;
   margin-bottom: 0.6rem;
   background-color: #fff;
   transition: all 0.4s;
@@ -83,7 +83,7 @@ main {
 }
 
 .hamburger-icon:hover .line {
-  width: 2.5rem;
+  width: 2.1rem;
 }
 
 .checkbox:checked ~ .topnav {
