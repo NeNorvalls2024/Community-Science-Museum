@@ -1,6 +1,6 @@
 # Community Science Museum
 
-![Community Science Museum](images/cms-logo.svg)
+![Community Science Museum](./images/cms-logo.svg)
 
 ## Description
 
