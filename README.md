@@ -1,5 +1,5 @@
 # Community Science Museum
-[live@](https://nenorvalls2024.github.io/Community-Science-Museum/)
+[Click to view the website!](https://nenorvalls2024.github.io/Community-Science-Museum/)
 
 ## Description
 
