@@ -1,6 +1,6 @@
-# Community Science Museum
+# Community Science Museum - HTML, CSS
 
-![Community Science Museum](images/cms-logo.svg)
+[click here to view the website](https://nenorvalls2024.github.io/Community-Science-Museum/)
 
 ## Description
 
